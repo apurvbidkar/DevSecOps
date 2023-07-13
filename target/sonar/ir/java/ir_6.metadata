@@ -1,0 +1,5 @@
+io.learnk8s.knote.KnoteConfig#addResourceHandlers(Lorg/springframework/web/servlet/config/annotation/ResourceHandlerRegistry;)V
+org.springframework.web.servlet.resource.PathResourceResolver#instance-init#
+org.springframework.web.servlet.resource.PathResourceResolver#<init>()V
+==
+getUploadDir io.learnk8s.knote.KnoteProperties#getUploadDir()Ljava/lang/String;

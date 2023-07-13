@@ -1,0 +1,2 @@
+io.learnk8s.knote.KNoteController#getAllNotes(Lorg/springframework/ui/Model;)V
+java.util.Collections#reverse(Ljava/util/List;)V

@@ -1,0 +1,8 @@
+io.learnk8s.knote.KNoteController#uploadImage(Lorg/springframework/web/multipart/MultipartFile;Ljava/lang/String;Lorg/springframework/ui/Model;)V
+java.io.File#<init>(Ljava/lang/String;)V
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+java.util.UUID#randomUUID()Ljava/util/UUID;
+java.util.UUID#toString()Ljava/lang/String;
+java.io.File#instance-init#
+==
+getUploadDir io.learnk8s.knote.KnoteProperties#getUploadDir()Ljava/lang/String;

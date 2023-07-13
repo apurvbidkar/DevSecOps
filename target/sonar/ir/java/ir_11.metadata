@@ -1,0 +1,6 @@
+io.learnk8s.knote.KNoteController#saveNotes(Lorg/springframework/web/multipart/MultipartFile;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/springframework/ui/Model;)Ljava/lang/String;
+io.learnk8s.knote.KNoteController#uploadImage(Lorg/springframework/web/multipart/MultipartFile;Ljava/lang/String;Lorg/springframework/ui/Model;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#isEmpty()Z
+io.learnk8s.knote.KNoteController#getAllNotes(Lorg/springframework/ui/Model;)V
+io.learnk8s.knote.KNoteController#saveNote(Ljava/lang/String;Lorg/springframework/ui/Model;)V

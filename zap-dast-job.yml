@@ -1,0 +1,22 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: zap-dast-job
+spec:
+  template:
+    spec:
+      containers:
+        - name: zap
+          image: owasp/zap2docker-stable
+          command:
+            - "/zap/zap-baseline.py"
+            - "-t"
+            - "http://18.207.246.32:30522/"
+          volumeMounts:
+            - name: zap-report
+              mountPath: /zap/wrk/
+      restartPolicy: Never
+      volumes:
+        - name: zap-report
+          emptyDir: {}
+

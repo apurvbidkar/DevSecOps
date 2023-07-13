@@ -1,0 +1,2 @@
+io.learnk8s.knote.KNoteController#index(Lorg/springframework/ui/Model;)Ljava/lang/String;
+io.learnk8s.knote.KNoteController#getAllNotes(Lorg/springframework/ui/Model;)V

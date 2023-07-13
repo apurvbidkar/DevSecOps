@@ -1,0 +1,5 @@
+io.learnk8s.knote.KNoteController#saveNote(Ljava/lang/String;Lorg/springframework/ui/Model;)V
+null
+java.lang.String#isEmpty()Z
+io.learnk8s.knote.Note#instance-init#
+java.lang.String#trim()Ljava/lang/String;

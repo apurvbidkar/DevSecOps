@@ -1,0 +1,3 @@
+io.learnk8s.knote.KNoteController#instance-init#
+org.commonmark.parser.Parser#builder()Lorg/commonmark/parser/Parser$Builder;
+org.commonmark.renderer.html.HtmlRenderer#builder()Lorg/commonmark/renderer/html/HtmlRenderer$Builder;
