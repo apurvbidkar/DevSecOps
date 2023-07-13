@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: apurvbidkar/microservices2:java
+          image: apurvbidkar/devsecops
           ports:
             - containerPort: 8080
           env:
